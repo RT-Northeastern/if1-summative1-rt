@@ -31,4 +31,4 @@ For the program to run you will need the following:
 # Contact 
 For any questions or feedback please contact: 
 
-(rt4373a@nulondonstudents.org)
+rt4373a@nulondonstudents.org
