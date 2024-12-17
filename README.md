@@ -1,4 +1,4 @@
-# **Solving the Equation Program Game **
+# **Solving the Equation Program Game**
 
 ## Introduction 
 
