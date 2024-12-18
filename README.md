@@ -2,8 +2,22 @@
 
 ## Table of Contents 
 - [Introduction](#Introduction)
-- [Purpose of the program}(# Purpose of the program)
-- [Main Features of the program](# Main Features of the program)
+- [Purpose of the program}(#Purpose of the program)
+- [Main Features of the program](#Main Features of the program)
+- [Installation Requirements](#Installation Requirements)
+- [Installation & Setup](#Installation & Setup)
+- [Program Instructions](#Program Instructions)
+- [Example Game Run](#Example Game Run)
+- [Program Code Breakdown](#Program Code Breakdown)
+   - [number_generator.py](#number_generator.py)
+        - [Primary Points](#Primary Points)
+   -   [main.py](#main.py)
+        - [Primary Points](#Primary Points)
+- [Contact ](#Contact )
+
+
+---
+      
 
 
 
