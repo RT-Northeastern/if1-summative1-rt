@@ -2,7 +2,7 @@
 
 ## Introduction 
 
-Welcome to my **Solving the Equation Program**! This project is created using **Python** and includes challenging users to solve equations whilst keeping count of the score and displaying the results at the end. This user manual will guide you through the program and its features. 
+Welcome to my **Solving the Equation Program** ! This project is created using **Python** and includes challenging users to solve equations whilst keeping count of the score and displaying the results at the end. This user manual will guide you through the program and its features. 
 
 ---
 
@@ -14,8 +14,10 @@ The program allows users to:
 - Understand the fundamental strucutre of a python code.
 
 ## Main Features of the program
-- The program generates 5 random multiplication equations
-- Users answers are marked immediately via "Correct!" & "Incorrect!"
+Main features of **Solving the Equation Program** include: 
+
+- Generating 5 random multiplication equations using random numbers
+- Users answers are marked immediately displaying either "Correct!" or "Incorrect!"
 - Simple user-friendly interface
 - Counts score and displays results and end of program
 
@@ -23,8 +25,11 @@ The program allows users to:
 
 ## Installation Requirements 
 For the program to run you will need the following: 
-1. **Python Version 3.9+**
+
+1. **![Python Version 3.9+](https://www.python.org/downloads/)**
 2. **Visual Studio Code**
+3. **main.py** & **number_generator.py** files
+   
 
 ## Installation & Setup
 1. Create a file folder called if1-task1
@@ -36,6 +41,7 @@ For the program to run you will need the following:
 7. Run the program by pressing ▶ on the top right
 
 ---
+
 ## Program Instructions
 - You will be asked to **enter your name**
 - The program will ask you 5 simple equations where you need to solve I (E.g. 12 * I = 24)
