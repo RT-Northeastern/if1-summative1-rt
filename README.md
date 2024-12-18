@@ -1,5 +1,13 @@
 # **Solving the Equation Program Game**
 
+## Table of Contents 
+- [Introduction](# Introduction)
+- [Purpose of the program}(# Purpose of the program)
+- [Main Features of the program](# Main Features of the program)
+
+
+
+
 ## Introduction 
 
 Welcome to my **Solving the Equation Program** ! This project is created using **Python** and includes challenging users to solve equations whilst keeping count of the score and displaying the results at the end. This user manual will guide you through the program and its features. 
@@ -33,8 +41,8 @@ For the program to run you will need the following:
 
 ## Installation & Setup
 1. Create a file folder called if1-task1
-2. Download the files main.py from **[if1-summative1-rt repository](https://github.com/RT-Northeastern/if1-summative1-rt)  and save in if1-task1
-3. Download the files number_generator.py from **[if1-summative1-rt repository](https://github.com/RT-Northeastern/if1-summative1-rt)  and save in if1-task1
+2. Download the files main.py from **[if1-summative1-rt repository](https://github.com/RT-Northeastern/if1-summative1-rt)**  and save in if1-task1
+3. Download the files number_generator.py from **[if1-summative1-rt repository](https://github.com/RT-Northeastern/if1-summative1-rt)**  and save in if1-task1
 4. Open Visual Studio Code
 5. Press File > Open Folder > Select if1-task1 folder
 6. Select the main.py file tab
