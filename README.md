@@ -33,8 +33,8 @@ For the program to run you will need the following:
 
 ## Installation & Setup
 1. Create a file folder called if1-task1
-2. Download the files main.py from if1-summative1-rt repository and save in if1-task1
-3. Download the files number_generator.py from if1-summative1-rt repository and save in if1-task1
+2. Download the files main.py from **[if1-summative1-rt repository](https://github.com/RT-Northeastern/if1-summative1-rt)  and save in if1-task1
+3. Download the files number_generator.py from **[if1-summative1-rt repository](https://github.com/RT-Northeastern/if1-summative1-rt)  and save in if1-task1
 4. Open Visual Studio Code
 5. Press File > Open Folder > Select if1-task1 folder
 6. Select the main.py file tab
