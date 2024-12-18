@@ -8,6 +8,7 @@ Welcome to my **Solving the Equation Program**! This project is created using **
 
 ## Purpose of the program
 The program allows users to: 
+
 - Test their numerical skills
 - Check if their answers are correct or incorrect
 - Understand the fundamental strucutre of a python code.
