@@ -43,7 +43,7 @@ For the program to run you will need the following:
 
 ## Example Game Run
 
-![Example of Game] (https://github.com/RT-Northeastern/if1-summative1-rt/blob/main/image-equation_game-example.png)
+![Example of Game](https://github.com/RT-Northeastern/if1-summative1-rt/blob/main/image-equation_game-example.png)
 
 
 ---
