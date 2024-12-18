@@ -70,11 +70,11 @@ def generate_simple_equation():
 ```
 
 ####
-- import Random allows to use the built-in python module from the Python Library which includes the ability to generate random numbers
-- "random.randint(1,10)" is part of the Random extension which generates two random integers between 1 and 10.
-- "multiplier" & "missing_value" are variables that generate random numbers for the equation questions
-- "result" is the final result of multiplier multiplied by missing_value
-- Finally the function returns the 3 values multiplier, missing_value and result
+- **import Random** allows to use the built-in python module from the Python Library which includes the ability to generate random numbers
+- **"random.randint(1,10)"** is part of the Random extension which generates two random integers between 1 and 10.
+- **"multiplier"** & **"missing_value"** are variables that generate random numbers for the equation questions
+- **"result"** is the final result of multiplier multiplied by missing_value
+- Finally the function returns the 3 values **multiplier, missing_value and result**
   
 
 ### main.py
