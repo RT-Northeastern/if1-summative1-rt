@@ -155,8 +155,10 @@ main_program()
 ```
 #### Primary Points 
 - From the **number_generator.py** file the defined function: **generate_simple_equation** is imported to our main program.
-- The **"program_intro(name)"** function calls the arguement **name** to introduce the users name and explain the game. The defined function includes f-strings to help use different parameters alongside strings. 
-- "**displayed_question(question_number)"** function is used to display the questions to the user by calling the **generate_simple_equation**. The function allows the user to input their answer as integers only
+- The **"program_intro(name)"** function calls the arguement **name** to introduce the users name and explain the game.
+- Defined functions includes the use of **f-strings** to help use different parameters alongside literal strings via {}. 
+- "**displayed_question(question_number)"** function is used to display the questions to the user by calling the **generate_simple_equation**.
+- The code handles errors where the user has to input their answer as integers only through **Try** & **Except** statements.
 - Using **"Try** & "**Except"** in the code allows to ensure only integers are inputted by the user as if the **"Try"** is not met then it will follow with the **"Except ValueError"** path which displays an error message.
 - **"if"** & **"else"** statements are used to let the user know if their answer inputted was correct or incorrect. If correct the statements return a +1 to score.
 - **"main_program"** function runs the entire code starting the game and looping through the 5 random questions tracking the score throughout. The function ends with printing the final score and congratulating the user. 
