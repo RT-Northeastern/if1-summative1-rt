@@ -43,7 +43,7 @@ For the program to run you will need the following:
 ---
 
 ## Program Instructions
-- You will be asked to **enter your name**
+- You will be asked to **"Enter your name"**
 - The program will ask you 5 simple equations where you need to solve I (E.g. 12 * I = 24)
 - You will get be aware if your answer is "Correct!" or "Incorrect!"
 - At the end of the game your results will be displayed
@@ -59,7 +59,7 @@ For the program to run you will need the following:
 ---
 
 ## Program Code Breakdown
-This is how the code works breaking down the python program
+This is how the code works breaking down the python code in the files: 
 
 ### number_generator.py 
 
@@ -80,6 +80,7 @@ def generate_simple_equation():
 ```
 
 #### Primary Points 
+- **in-line comments** are noted throughout the code as seen in comments starting with **#**
 - **import Random** allows to use the built-in python module from the Python Library which includes the ability to generate random numbers
 - **"random.randint(1,10)"** is part of the Random extension which generates two random integers between 1 and 10.
 - **"multiplier"** & **"missing_value"** are variables that generate random numbers for the equation questions
