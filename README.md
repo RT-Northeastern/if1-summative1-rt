@@ -2,7 +2,7 @@
 
 ## Table of Contents 
 - [Introduction](#Introduction)
-- [Purpose of the program}(#Purpose of the program)
+- [Purpose of the program](#Purpose of the program)
 - [Main Features of the program](#Main Features of the program)
 - [Installation Requirements](#Installation Requirements)
 - [Installation & Setup](#Installation & Setup)
