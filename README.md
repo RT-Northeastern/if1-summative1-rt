@@ -69,7 +69,7 @@ def generate_simple_equation():
 
 ```
 
-####
+#### Primary Points 
 - **import Random** allows to use the built-in python module from the Python Library which includes the ability to generate random numbers
 - **"random.randint(1,10)"** is part of the Random extension which generates two random integers between 1 and 10.
 - **"multiplier"** & **"missing_value"** are variables that generate random numbers for the equation questions
@@ -151,7 +151,7 @@ def main_program():
 main_program()
 
 ```
-####
+#### Primary Points 
 
 
 
