@@ -83,7 +83,7 @@ def generate_simple_equation():
 - **in-line comments** are noted throughout the code as seen in comments starting with **#**
 - **import Random** allows to use the built-in python module from the Python Library which includes the ability to generate random numbers
 - **random.randint(1,10)** generates two random integers between the numbers in brackets, 1 and 10.
-- **multiplier** & **missing_value** are named variables created where <u>random numbers<u> are assigned to the variables which will be used to generate the equation questions
+- **multiplier** & **missing_value** are named variables created where <u>random numbers</u> are assigned to the variables which will be used to generate the equation questions
 - **result** is the final result of multiplier multiplied by missing_value
 - Finally the function returns the 3 values **multiplier, missing_value and result**
   
