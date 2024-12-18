@@ -34,6 +34,8 @@ The program allows users to:
 - Check if their answers are correct or incorrect
 - Understand the fundamental strucutre of a python code.
 
+---
+
 ## Main Features of the program
 Main features of **Solving the Equation Program** include: 
 
