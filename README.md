@@ -68,7 +68,7 @@ def generate_simple_equation():
 
 def generate_
 
-
+```
 ---
 
 ---
