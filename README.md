@@ -30,8 +30,9 @@ For the program to run you will need the following:
 2. Download the files main.py from if1-summative1-rt repository and save in if1-task1
 3. Download the files number_generator.py from if1-summative1-rt repository and save in if1-task1
 4. Open Visual Studio Code
-5. Open the file folder if1-task1
-6. Run the program
+5. Press File > Open Folder > Select if1-task1 folder
+6. Select the main.py file tab
+7. Run the program by pressing ▶ on the top right
 
 ---
 ## Program Instructions
@@ -164,7 +165,7 @@ main_program()
 - **"main_program"** function runs the entire code starting the game and looping through the 5 random questions tracking the score throughout. The function ends with printing the final score and congratulating the user. 
 
 
-
+####
 ---
 
 # Contact 
