@@ -4,6 +4,8 @@
 
 Welcome to my **Solving the Equation Program**! This project is created using **Python** and includes challenging users to solve equations whilst keeping count of the score and displaying the results at the end. This user manual will guide you through the program and its features. 
 
+---
+
 ## Purpose of the program
 The program allows users to: 
 - Test their numerical skills
