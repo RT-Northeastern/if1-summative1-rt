@@ -1,19 +1,19 @@
 # **Solving the Equation Program Game**
 
 ## Table of Contents 
-- [Introduction](#Introduction)
-- [Purpose of the program](#purpose-of-the-program)
-- [Main Features of the program](#main-features-of-the-program)
-- [Installation Requirements](#installation-requirements)
-- [Installation & Setup](#installation--setup)
-- [Program Instructions](#program-instructions)
-- [Example Game Run](#example-game-run)
-- [Program Code Breakdown](#program-code-breakdown)
-   - [number_generator.py](#number_generatorpy)
-        - [Primary Points](#primary-points-1)
-   - [main.py](#mainpy)
-        - [Primary Points](#primary-points-2)
-- [Contact](#contact)
+- [**Introduction**](#Introduction)
+- [**Purpose of the program**](#purpose-of-the-program)
+- [**Main Features of the program**](#main-features-of-the-program)
+- [**Installation Requirements**](#installation-requirements)
+- [**Installation & Setup**](#installation--setup)
+- [**Program Instructions**](#program-instructions)
+- [**Example Game Run**](#example-game-run)
+- [**Program Code Breakdown**](#program-code-breakdown)
+   - [**number_generator.py**](#number_generatorpy)
+        - [**Primary Points**](#primary-points-1)
+   - [**main.py**](#mainpy)
+        - [**Primary Points**](#primary-points-2)
+- [**Contact**](#contact)
 
 ---
       
