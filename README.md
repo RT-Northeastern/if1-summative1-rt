@@ -49,9 +49,27 @@ For the program to run you will need the following:
 ---
 
 ## Program Code Breakdown
+This is how the code works breaking down the python program
+
+### number_generator.py 
+
+This module file defines the function to generate the random numbers used in simple equations for the game. 
+
+```python
+
+# importing the random module from the Python Library which generates random numbers
+import random 
+
+def generate_simple_equation():
+    multiplier = random.randint(1,10)           # Random number for multiplier 
+    missing_value = random.randint(1,10)        # Random number for missing values
+    result = multiplier * missing_value         # Result of the two random generated numbers
+    return multiplier, missing_value, result    # Function returns all three values 
+
+def generate_
 
 
-
+---
 
 ---
 # Contact 
