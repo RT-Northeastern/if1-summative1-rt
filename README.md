@@ -152,7 +152,9 @@ main_program()
 
 ```
 #### Primary Points 
-
+- From the **number_generator.py** file the defined function: **generate_simple_equation** is imported to our main program.
+- **"program_intro"**
+- 
 
 
 
