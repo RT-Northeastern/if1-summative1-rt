@@ -16,6 +16,7 @@ The program allows users to:
 - Simple user-friendly interface
 - Counts score and displays results and end of program
 
+---
 
 ## Installation Requirements 
 For the program to run you will need the following: 
