@@ -27,7 +27,7 @@ Main features of **Solving the Equation Program** include:
 For the program to run you will need the following: 
 
 1. **[Python Version 3.9+](https://www.python.org/downloads/)**
-2. **Visual Studio Code**
+2. **[Visual Studio Code](https://code.visualstudio.com/Download)**
 3. **main.py** & **number_generator.py** files
    
 
