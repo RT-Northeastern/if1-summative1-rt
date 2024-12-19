@@ -8,6 +8,7 @@
 - [**Installation & Setup**](#installation--setup)
 - [**Program Instructions**](#program-instructions)
 - [**Example Game Run**](#example-game-run)
+- [**Video Example Game Run**](#example-game-run)
 - [**Program Code Breakdown**](#program-code-breakdown)
    - [**number_generator.py**](#number_generatorpy)
         - [**Primary Points**](#primary-points-1)
@@ -78,6 +79,12 @@ For the program to run you will need the following:
 
 ![Example of Game](https://github.com/RT-Northeastern/if1-summative1-rt/blob/main/image-equation_game-example.png)
 
+
+---
+
+## Video Example Game Run 
+
+[!Video Example Game Run](https://github.com/RT-Northeastern/if1-summative1-rt/blob/main/video_equation_example.mp4)
 
 ---
 
