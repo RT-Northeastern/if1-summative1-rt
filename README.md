@@ -84,7 +84,7 @@ For the program to run you will need the following:
 
 ## Video Example Game Run 
 
-To watch an visual example of the code being run please download the file [Video Example Game Run](https://github.com/RT-Northeastern/if1-summative1-rt/blob/main/video_equation_example.mp4)
+To watch a visual example of the code being run please download the file [Video Example Game Run](https://github.com/RT-Northeastern/if1-summative1-rt/blob/main/video_equation_example.mp4)
 
 ---
 
