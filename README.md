@@ -214,7 +214,7 @@ Areas of focus to improve the program for future projects  include:
 
 ---
 # Licenses 
-Python Version 3.12.3 was used and GitHub MIT License 
+Python Version 3.12.3 was used and this GitHub project is licensed under the MIT License.
 
 # Contact 
 For any questions or feedback please contact: 
