@@ -205,6 +205,16 @@ main_program()
 
 ####
 ---
+# Future Improvements 
+Areas of focus to improve the program for future projects  include: 
+
+- Giving users the ability to choose how many questions
+- Implenenting the ability for users to share their results directly
+- Having a mixture of aiddtion, subtraction, division and multiplication equations included in the random generator
+
+---
+# Licenses 
+Python Version 3.12.3 was used and GitHub MIT License 
 
 # Contact 
 For any questions or feedback please contact: 
