@@ -27,7 +27,9 @@
 
 ## Introduction 
 
-Welcome to my **Solving the Equation Program** ! This project was created using **Python** and includes challenging users to solve equations whilst keeping count of the score and displaying the results at the end. This user manual will guide you through the program and its features. 
+Welcome to my **Solving the Equation Program** ! This project was created using **Python** and includes challenging users to solve equations whilst keeping count of the score and displaying the results at the end. This user manual will guide you through the program and its features.
+
+The task set out was to create a python program that generates simple equations providing the result of the score.
 
 ---
 
