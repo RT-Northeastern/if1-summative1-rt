@@ -14,6 +14,8 @@
         - [**Primary Points**](#primary-points-1)
    - [**main.py**](#mainpy)
         - [**Primary Points**](#primary-points-2)
+-[**Future Improvements**](#Future Improvements )
+-[**License**](#Licenses)
 - [**Contact**](#contact)
 
 ---
@@ -24,7 +26,7 @@
 
 ## Introduction 
 
-Welcome to my **Solving the Equation Program** ! This project is created using **Python** and includes challenging users to solve equations whilst keeping count of the score and displaying the results at the end. This user manual will guide you through the program and its features. 
+Welcome to my **Solving the Equation Program** ! This project was created using **Python** and includes challenging users to solve equations whilst keeping count of the score and displaying the results at the end. This user manual will guide you through the program and its features. 
 
 ---
 
