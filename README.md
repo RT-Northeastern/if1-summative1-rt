@@ -27,39 +27,46 @@
 
 ## Introduction 
 
-Welcome to my **Solving the Equation Program** ! This project was created using **Python** and includes challenging users to solve equations whilst keeping count of the score and displaying the results at the end. This user manual will guide you through the program and its features.
+Welcome to my **Solving the Equation Program**! This project is a **Python** based program that involves challenging users to solve equations strengthening their numerical skills. The program primarily generates 5 random numbers which are then formulated into a random equation. This is then displayed to the user where they will need to solve the unknown constant variable **I**. Alongside this the program provides immediate feedback to the user and keeps count of the score displaying the results at the end making the entire experience interactive and fun for the user. This user manual will guide you through the program and its features designed by myself. 
 
-The task set out was to create a python program that generates simple equations providing the result of the score at the end. For my program I had chosen a set of 5 questions and **'I'** as the constant variable that needs to be solved. 
 
 ---
 
 ## Purpose of the program
-The program allows users to: 
+The program allows users to exeprience a fun learning expereince for all who are wanting to develop their numerical algebra skills. The program designed is to generate 5 random numbers between 1 and 10 and then used to generate 5 equations for the user to solve. The program illustrates the result of the users answer to help the user evaluate their answers in real-time. The program can also be targeted to those who are early beginners to python programming as they can use this as influence to learn how funadmental functions and statements are used to formulate an equation based program. 
+
+The program allows users to:
 
 - Test their numerical skills
 - Check if their answers are correct or incorrect
 - Understand the fundamental strucutre of a python code.
-  
+
 
 ---
 
 ## Main Features of the program
-Main features of **Solving the Equation Program** include: 
+The main features of **Solving the Equation Program** include: 
 
-- Generating 5 random multiplication equations using random numbers
-- Users answers are marked immediately displaying either "Correct!" or "Incorrect!"
+- Random Generation: The program generates 5 random multiplication equations hence the user will not know what the next equation will be.
+- Counting Score: The program keeps count of the score and tracks the number of right and wrong questions with displaying the users results at the end.
+- ValueError: The program ensures that the users input is strictly integers only with using **Try & Except** statements. If strings are used the user will be given a message to enter a valid number.
+- Developers can customize: The program gives python developers and teachers to edit the python code once downloaded and change the number of total questions or change the random number generator range (currently set between 1 and 10).
+- Immediate feedback: Users answers are marked immediately displaying either "Correct!" or "Incorrect!"
 - Simple user-friendly interface
-- Counts score and displays results and end of program
+  
 
 ---
 
+
 ## Installation Requirements 
-For the program to run you will need the following: 
+
+For the program to run successfully you will need the following: 
 
 1. **[Python Version 3.9+](https://www.python.org/downloads/)**
 2. **[Visual Studio Code](https://code.visualstudio.com/Download)**
 3. **[main.py](https://github.com/RT-Northeastern/if1-summative1-rt/blob/main/main.py)** & **[number_generator.py](https://github.com/RT-Northeastern/if1-summative1-rt/blob/main/number_generator.py)** files
-4. Have a Windows or MacOS operating system.
+4. Have Windows 10+ or MacOS operating system.
+   
    
 
 ## Installation & Setup
@@ -73,11 +80,18 @@ For the program to run you will need the following:
 
 ---
 
-## Program Instructions
+## Running the Program 
+
+As you follow the last step of Installation & Setup; running the program will begin launching the Solve the Equation Game starting with you now the user to enter your name. I have instilled this feature to strengthen the engagement of the program. Please note that once you have inputted your name the program will recognise you as the given name throughout till the 5 questions have been answered. 
+
+---
+
+## How to Play the Program
 - The user will be asked to **"Enter your name"** as a string format.
 - The program will then ask you 5 simple equations where you need to solve I by inputting an integer (E.g. 12 * I = 24, Answer is 2)
 - You will then get a message "Correct!" or "Incorrect!". If correct you will progress to the next question. If incorrect the program will reveal the correct answer and continue. 
 - At the end of the game your results will be displayed
+
 
 ---
 
@@ -232,8 +246,10 @@ Should you have further troubleshooting error relating to the program please con
 Areas of focus to improve the program for future projects  include: 
 
 - Giving users the ability to choose how many questions
+- Having multiple difficulty levels for the user to choose from
 - Implenenting the ability for users to share their results directly
 - Having a mixture of addition, subtraction, division and multiplication equations included in the random generator
+- Be able to test the program using pytest or unittesting methods
 
 ---
 # 
