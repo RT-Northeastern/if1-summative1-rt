@@ -14,8 +14,9 @@
         - [**Primary Points**](#primary-points-1)
    - [**main.py**](#mainpy)
         - [**Primary Points**](#primary-points-2)
--[**Future Improvements**](#future-Improvements)
--[**License**](#licenses)
+
+- [**Future Improvements**](#future-Improvements)
+- [**License**](#licenses)
 - [**Contact**](#contact)
 
 ---
