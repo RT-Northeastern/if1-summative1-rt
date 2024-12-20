@@ -29,7 +29,7 @@
 
 Welcome to my **Solving the Equation Program** ! This project was created using **Python** and includes challenging users to solve equations whilst keeping count of the score and displaying the results at the end. This user manual will guide you through the program and its features.
 
-The task set out was to create a python program that generates simple equations providing the result of the score.
+The task set out was to create a python program that generates simple equations providing the result of the score at the end. For my program I had chosen a set of 5 questions and **'I'** as the constant variable that needs to be solved. 
 
 ---
 
@@ -39,6 +39,7 @@ The program allows users to:
 - Test their numerical skills
 - Check if their answers are correct or incorrect
 - Understand the fundamental strucutre of a python code.
+  
 
 ---
 
@@ -58,6 +59,7 @@ For the program to run you will need the following:
 1. **[Python Version 3.9+](https://www.python.org/downloads/)**
 2. **[Visual Studio Code](https://code.visualstudio.com/Download)**
 3. **[main.py](https://github.com/RT-Northeastern/if1-summative1-rt/blob/main/main.py)** & **[number_generator.py](https://github.com/RT-Northeastern/if1-summative1-rt/blob/main/number_generator.py)** files
+4. Have a Windows or MacOS operating system.
    
 
 ## Installation & Setup
@@ -72,9 +74,9 @@ For the program to run you will need the following:
 ---
 
 ## Program Instructions
-- You will be asked to **"Enter your name"**
-- The program will ask you 5 simple equations where you need to solve I (E.g. 12 * I = 24)
-- You will get be aware if your answer is "Correct!" or "Incorrect!"
+- The user will be asked to **"Enter your name"** as a string format.
+- The program will then ask you 5 simple equations where you need to solve I by inputting an integer (E.g. 12 * I = 24, Answer is 2)
+- You will then get a message "Correct!" or "Incorrect!". If correct you will progress to the next question. If incorrect the program will reveal the correct answer and continue. 
 - At the end of the game your results will be displayed
 
 ---
@@ -94,11 +96,14 @@ To watch a visual example of the code being run please download the file [Video 
 ---
 
 ## Program Code Breakdown
+
 This is how the code works breaking down the python code in the files: 
 
 ### number_generator.py 
 
-This module file defines the function to generate the random numbers used in simple equations for the game. 
+This module file defines the function to generate the random numbers used in simple equations in the game.
+
+Below is a Code Block to which illustrates the program file. 
 
 ```python
 
@@ -205,8 +210,8 @@ main_program()
 - **displayed_question(question_number)** function is then defined to help display the **questions** and **question number** itself to the user.
         - A variable is then included in the defined function to ensure **mutliplier, missing_value and result** is = **generate_simple_equation**
               - When called the function should return: e.g. "Question 1: Solve I in 4 * I = 8
-- The code then progresses to using while TRUE statements to **handles errors** where the user has to input their answer as **integers only** when they are asked the questio. This is achieved through **Try** & **Except** statements.
-         - Using **"Try** & "**Except"** in the code allows to ensure only integers are inputted by the user as if the **"Try"** is not met then it will follow with the **"Except ValueError"** path which displays an error message.
+- The code then progresses to using while TRUE statements to **handles errors** where the user has to input their answer as an **integers** when are asked the question. This is achieved through **Try** & **Except** statements.  
+         - Using **"Try** & "**Except"** in the code allows to ensure only integers are inputted by the user as if the **"Try"** is not met then it will follow with the **"Except ValueError"** path which displays an error message: **"Please enter a valid number".**
 - **"if"** & **"else"** statements are used to let the user know if their answer inputted was correct or incorrect. If correct the statements return a +1 to score.
 - **"main_program"** function runs the entire code starting the game and looping through the 5 random questions tracking the score throughout. The function ends with printing the final score and congratulating the user.
 - **score** is = 0
@@ -214,6 +219,13 @@ main_program()
 
 
 ####
+---
+# Troubleshooting 
+
+To reset the program please clear the terminal in visual stuido code and run the program again. 
+
+Should you have further troubleshooting error relating to the program please contact the address listed in the Contact Section. 
+
 ---
 # Future Improvements 
 Areas of focus to improve the program for future projects  include: 
