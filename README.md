@@ -52,7 +52,7 @@ For the program to run you will need the following:
 
 1. **[Python Version 3.9+](https://www.python.org/downloads/)**
 2. **[Visual Studio Code](https://code.visualstudio.com/Download)**
-3. **main.py** & **number_generator.py** files
+3. **[main.py](https://github.com/RT-Northeastern/if1-summative1-rt/blob/main/main.py)** & **[number_generator.py](https://github.com/RT-Northeastern/if1-summative1-rt/blob/main/number_generator.py)** files
    
 
 ## Installation & Setup
