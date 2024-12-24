@@ -34,13 +34,7 @@ Welcome to my **Solving the Equation Program**! This project is a **Python** bas
 ---
 
 ## Purpose of the program
-The program allows users to exeprience a fun learning expereince for all who are wanting to develop their numerical algebra skills. The program designed is to generate 5 random numbers between 1 and 10 and then used to generate 5 equations for the user to solve. The program illustrates the result of the users answer to help the user evaluate their answers in real-time. The program can also be targeted to those who are early beginners to python programming as they can use this as influence to learn how funadmental functions and statements are used to formulate an equation based program. 
-
-The program allows users to:
-
-- Test their numerical skills
-- Check if their answers are correct or incorrect
-- Understand the fundamental strucutre of a python code.
+The program allows users to experience a fun learning environment for all who are wanting to develop their numerical algebra skills. The program designed is to generate 5 random numbers between 1-10 and then used to generate 5 equations for the user to solve. The program shows the results of each answer to help the user evaluate their answers in real-time. The program can also be targeted to those who are early beginners to python programming as they can use this as influence to learn how fundamental functions and statements are used to formulate an equation based program. 
 
 
 ---
@@ -66,7 +60,7 @@ For the program to run successfully you will need the following:
 1. **[Python Version 3.9+](https://www.python.org/downloads/)**
 2. **[Visual Studio Code](https://code.visualstudio.com/Download)**
 3. **[main.py](https://github.com/RT-Northeastern/if1-summative1-rt/blob/main/main.py)** & **[number_generator.py](https://github.com/RT-Northeastern/if1-summative1-rt/blob/main/number_generator.py)** files
-4. Have Windows 10+ or MacOS operating system.
+
    
    
 
@@ -83,7 +77,7 @@ For the program to run successfully you will need the following:
 
 ## Running the Program 
 
-As you follow the last step of Installation & Setup; running the program will begin launching the Solve the Equation Game starting with you now the user to enter your name. I have instilled this feature to strengthen the engagement of the program. Please note that once you have inputted your name the program will recognise you as the given name throughout till the 5 questions have been answered. 
+As you follow the last step of Installation & Setup, running the program will begin launching the Solve the Equation Game starting with you now the user to enter your name. I have instilled this feature to strengthen the engagement of the program. Please note that once you have inputted your name the program will recognise you as the given name throughout till the 5 questions have been answered. 
 
 ---
 
@@ -91,7 +85,7 @@ As you follow the last step of Installation & Setup; running the program will be
 - You will be asked to **"Enter your name"** as a string format.
 - My program will then welcome you by your name and will give an introduction to the game.
 - My program will then ask you 5 simple equations where you need to solve I by inputting an integer (E.g. 12 * I = 24, Answer is 2)
-- As you enter your anaswer you will get an immediate message "Correct!" or "Incorrect!". If correct you will progress to the next question. If incorrect the program will reveal the correct answer and continue. 
+- As you enter your answer you will get an immediate message "Correct!" or "Incorrect!". If correct you will progress to the next question. If incorrect the program will reveal the correct answer and continue. 
 - At the end of the game your results will be displayed
 
 
@@ -242,7 +236,7 @@ Below I have listed a few common troubleshooting issues and solutions to solve t
 
 1. The correct version of python not installed
 
-Please note to install and use the correct version of python found here -- **[Python Version 3.9+](https://www.python.org/downloads/)**
+Please note to use the correct version of python 
 
 2. Inputting a string as an answer
 
@@ -255,7 +249,6 @@ To reset the program please clear the terminal in visual stuido code and run the
 
 
 
-Should you have further troubleshooting error relating to the program please contact the address listed in the Contact Section. 
 
 ---
 
@@ -264,7 +257,7 @@ Areas of focus to improve the program for future projects  include:
 
 - Giving users the ability to choose how many questions
 - Having multiple difficulty levels for the user to choose from
-- Implenenting the ability for users to share their results directly
+- Implementing the ability for users to share their results directly
 - Having a mixture of addition, subtraction, division and multiplication equations included in the random generator
 - Be able to test the program using pytest or unittesting methods
 
