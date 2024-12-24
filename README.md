@@ -87,23 +87,24 @@ As you follow the last step of Installation & Setup; running the program will be
 ---
 
 ## How to Play the Program
-- The user will be asked to **"Enter your name"** as a string format.
-- The program will then ask you 5 simple equations where you need to solve I by inputting an integer (E.g. 12 * I = 24, Answer is 2)
-- You will then get a message "Correct!" or "Incorrect!". If correct you will progress to the next question. If incorrect the program will reveal the correct answer and continue. 
+- You will be asked to **"Enter your name"** as a string format.
+- My program will then welcome you by your name and will give an introduction to the game.
+- My program will then ask you 5 simple equations where you need to solve I by inputting an integer (E.g. 12 * I = 24, Answer is 2)
+- As you enter your anaswer you will get an immediate message "Correct!" or "Incorrect!". If correct you will progress to the next question. If incorrect the program will reveal the correct answer and continue. 
 - At the end of the game your results will be displayed
 
 
 ---
 
 
-## Example Game Run
+### Example Game Run
 
 ![Example of Game](https://github.com/RT-Northeastern/if1-summative1-rt/blob/main/image-equation_game-example.png)
 
 
 ---
 
-## Video Example Game Run 
+### Video Example Game Run 
 
 To watch a visual example of the code being run please download the file [Video Example Game Run](https://github.com/RT-Northeastern/if1-summative1-rt/raw/refs/heads/main/video_equation_example.mp4)
 
@@ -117,7 +118,7 @@ This is how the code works breaking down the python code in the files:
 
 This module file defines the function to generate the random numbers used in simple equations in the game.
 
-Below is a Code Block to which illustrates the program file. 
+Below is a Code Block which illustrates the program file. 
 
 ```python
 
@@ -234,8 +235,17 @@ main_program()
 
 ####
 ---
-# Troubleshooting 
+# Troubleshooting & Issues
 
+Below I have listed a few common troubleshooting issues and solutions to solve them: 
+
+1. The correct version of python not installed
+Please note to install and use the correct version of python found here **[Python Version 3.9+](https://www.python.org/downloads/)**
+
+2. Inputting a string as an answer
+Your answer must be in integer format so when solving the equations please ensure you are entering a numeric value.
+
+3. Clearing the program for multiple attempts
 To reset the program please clear the terminal in visual stuido code and run the program again. 
 
 Should you have further troubleshooting error relating to the program please contact the address listed in the Contact Section. 
@@ -252,10 +262,11 @@ Areas of focus to improve the program for future projects  include:
 - Be able to test the program using pytest or unittesting methods
 
 ---
-# 
 
 # Licenses 
 Python Version 3.12.3 was used and this GitHub project is licensed under the MIT License.
+
+---
 
 # Contact 
 For any questions or feedback please contact: 
