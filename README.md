@@ -253,6 +253,8 @@ Your answer must be in integer format so when solving the equations please ensur
 
 To reset the program please clear the terminal in visual stuido code and run the program again. 
 
+
+
 Should you have further troubleshooting error relating to the program please contact the address listed in the Contact Section. 
 
 ---
