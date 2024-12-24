@@ -6,7 +6,8 @@
 - [**Main Features of the program**](#main-features-of-the-program)
 - [**Installation Requirements**](#installation-requirements)
 - [**Installation & Setup**](#installation--setup)
-- [**Program Instructions**](#program-instructions)
+- [**Running the Program**](#running-the-program)
+- [**How to Play the Program**](#how-to-play-the-program)
 - [**Example Game Run**](#example-game-run)
 - [**Video Example Game Run**](#example-game-run)
 - [**Program Code Breakdown**](#program-code-breakdown)
@@ -14,7 +15,7 @@
         - [**Primary Points**](#primary-points-1)
    - [**main.py**](#mainpy)
         - [**Primary Points**](#primary-points-2)
-
+- [**Troubleshooting & Issues**](#troubleshooting-&-issues)
 - [**Future Improvements**](#future-Improvements)
 - [**License**](#licenses)
 - [**Contact**](#contact)
@@ -240,12 +241,16 @@ main_program()
 Below I have listed a few common troubleshooting issues and solutions to solve them: 
 
 1. The correct version of python not installed
-Please note to install and use the correct version of python found here **[Python Version 3.9+](https://www.python.org/downloads/)**
+
+Please note to install and use the correct version of python found here -- **[Python Version 3.9+](https://www.python.org/downloads/)**
 
 2. Inputting a string as an answer
+
 Your answer must be in integer format so when solving the equations please ensure you are entering a numeric value.
 
 3. Clearing the program for multiple attempts
+
+
 To reset the program please clear the terminal in visual stuido code and run the program again. 
 
 Should you have further troubleshooting error relating to the program please contact the address listed in the Contact Section. 
